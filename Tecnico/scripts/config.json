@@ -1,0 +1,12 @@
+{
+  "enlace_sharepoint": "https://viveenergia1-my.sharepoint.com/:f:/g/personal/d_villegas_viveenergia_com/IgBxZHduaTitSo6KczEklazNAR9nUPUcWRC0b56fpptt5GU?e=76UgUG",
+  "extensiones_incluidas": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx"],
+  "excluir_carpetas": [
+    "PERSONAL",
+    "DOCUMENTACION DE ACCESO A PARQUE",
+    "RECURSOS HUMANOS",
+    "HIST[OÓ]RIC",
+    "PRON[OÓ]STICO"
+  ],
+  "profundidad_maxima": null
+}
